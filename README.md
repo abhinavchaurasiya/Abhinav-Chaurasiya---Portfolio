@@ -13,7 +13,6 @@
 - Scroll progress indicator
 - Reveal-on-scroll animations
 - Hero, About, Skills, Projects, Education and Contact sections
-- Project cards including NEXUS AI, CareerLens AI, FrameFlow, CalcPro Ultimate, PulsePlay, CodeLens AI, Python Practice Lab and YouTube Transcript Summarizer
 - Contact form validation
 - Reduced-motion accessibility support
 - No external JavaScript libraries required
